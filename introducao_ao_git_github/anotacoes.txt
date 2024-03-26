@@ -3,6 +3,7 @@ Link de download do Git: https://git-scm.com/downloads
 Git Bash é console utilizado para trabalharmos com o Git.
 
 Comandos básicos do GIT:
+git init -  cria um novo repositório do Git. Ele pode ser usado para converter um projeto existente e não versionado em um repositório do Git ou inicializar um novo repositório vazio.
 git status - comando git status nos dá todas as informações necessárias sobre a branch atual.
 git add - Ao criarmos, modificarmos ou excluirmos um arquivo, essas alterações acontecerão em nosso espaço de trabalho local e não serão incluídas no próximo commit (a menos que alteremos as configurações). Precisamos usar o comando git add para incluir as alterações de um ou vários arquivos em nosso próximo commit.
 git commit - Git commit é como definir um ponto de verificação no processo de desenvolvimento. Você pode voltar a esse ponto mais tarde, se necessário. Também precisamos escrever uma mensagem breve para explicar o que desenvolvemos ou alteramos no código-fonte.
